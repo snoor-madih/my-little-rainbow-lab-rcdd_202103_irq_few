@@ -12,4 +12,21 @@ div {
 #red{
   border-top-color: #f00;
 }
+#ora{
+  border-top-color: #ffa500;
+}
+#yel{
+  border-top-color: #ff0;
+}
+#gren{
+  border-top-color: #00bc3f;
+}
+#blu{
+  border-top-color: #06f;
+}
+#ind{
+  border-top-color: #8a2be2;
+}
+#vio{
+  border-top-color: #d300c9;
 }
